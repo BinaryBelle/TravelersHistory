@@ -9,12 +9,12 @@
 --------------------------------------------------------------*/
 body {
   background: #fff;
-  color: #7c7c7c;
+  color: #666666;
   font-family: "Open Sans", sans-serif;
 }
 
 a {
-  color: #e01719;
+  color: #fff;
 }
 
 a:hover, a:active, a:focus {
